@@ -1,0 +1,91 @@
+# ====== ՀԱՅԿԱԿԱՆ ԱԶԳԱՅԻՆ ======
+
+#EXTINF:-1 group-title="Հայկական",Armenia TV
+https://s80718.cdn.ngenix.net//hls//CH_ARMENIA_TV_HD//variant.m3u8
+
+#EXTINF:-1 group-title="Հայկական",ATV
+https://ncdn-y1-w6.teamcloud.am/live/eds/ATV/SAF-HLS/ATV.m3u8
+
+#EXTINF:-1 group-title="Հայկական",Kentron TV
+https://ncdn-y1-w6.teamcloud.am/live/eds/Kentron/SAF-HLS/Kentron.m3u8
+
+#EXTINF:-1 group-title="Հայկական",Tsayg TV
+https://ncdn-y1-w6.teamcloud.am/live/eds/CAYG/SAF-HLS/CAYG.m3u8
+
+#EXTINF:-1 group-title="Հայկական",Lori TV
+https://ncdn-y1-w6.teamcloud.am/live/eds/LoriTV/SAF-HLS/LoriTV.m3u8
+
+#EXTINF:-1 group-title="Հայկական",USArmenia
+http://livestream.usatv.com/hls/master-iUSATVLIVENET.m3u8
+
+#EXTINF:-1 group-title="Հայկական",5 Ալիք
+https://ncdn-y1-w4.teamcloud.am/live/eds/5Aliq/SAF-HLS/5Aliq.m3u8
+
+
+# ====== ԼՐԱՏՎԱԿԱՆ ======
+
+#EXTINF:-1 group-title="News",FreeNews
+https://ncdn-y1-w4.teamcloud.am/live/eds/FreeNews/SAF-HLS/FreeNews.m3u8
+
+#EXTINF:-1 group-title="News",Առաջին Լրատվական
+https://amtvusdvr.tulix.tv/am3abr/index.m3u8
+
+#EXTINF:-1 group-title="News",1inAM
+https://ncdn-y1-w6.teamcloud.am/live/eds/1inAM/SAF-HLS/1inAM.m3u8
+
+
+# ====== ՍՊՈՐՏ ======
+
+#EXTINF:-1 group-title="Sports",Fast Sports
+https://s80718.cdn.ngenix.net//hls//CH_FAST_SPORTSHD//variant.m3u8
+
+#EXTINF:-1 group-title="Sports",Match TV
+https://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
+
+#EXTINF:-1 group-title="Sports",Match Football 1
+http://31.148.48.15/Match_Futbol_1_HD/index.m3u8?token=test
+
+#EXTINF:-1 group-title="Sports",Match Football 2
+http://31.148.48.15/Match_Futbol_2_HD/index.m3u8?token=test
+
+#EXTINF:-1 group-title="Sports",Match Football 3
+http://31.148.48.15/Match_Futbol_3_HD/index.m3u8?token=test
+
+#EXTINF:-1 group-title="Sports",Match Igra
+http://31.148.48.15/Match_Igra/index.m3u8?token=test
+
+#EXTINF:-1 group-title="Sports",Match Planeta
+https://ncdn-y1-w6.teamcloud.am/live/eds/Match_Planeta/SAF-HLS/Match_Planeta.m3u8
+
+
+# ====== SHANT ======
+
+#EXTINF:-1 group-title="Shant",Shant TV
+https://s80718.cdn.ngenix.net//hls//CH_SHANTHD//variant.m3u8
+
+#EXTINF:-1 group-title="Shant",Shant Gyumri
+https://s80718.cdn.ngenix.net//hls//CH_SHANT_GYUMRIHD//variant.m3u8
+
+#EXTINF:-1 group-title="Shant",Shant Premium
+https://s80718.cdn.ngenix.net//hls//CH_SHANT_PREMIUMHD//variant.m3u8
+
+#EXTINF:-1 group-title="Shant",Shant Serial
+https://s80718.cdn.ngenix.net//hls//CH_SHANT_SERIALHD//variant.m3u8
+
+
+# ====== ՄԱՆԿԱԿԱՆ ======
+
+#EXTINF:-1 group-title="Kids",Shant Kids
+https://s80718.cdn.ngenix.net//hls//CH_SHANT_KIDSHD//variant.m3u8
+
+
+# ====== ՖԻԼՄԵՐ ======
+
+#EXTINF:-1 group-title="Movies",Bazmoc
+https://ncdn-y1-w1.teamcloud.am/live/eds/Bazmoc/SAF-HLS/Bazmoc.m3u8
+
+
+# ====== ԺԱՄԱՆՑ ======
+
+#EXTINF:-1 group-title="Entertainment",H2
+https://s70378.cdn.ngenix.net//h2//index.m3u8
