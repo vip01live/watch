@@ -42,7 +42,7 @@ https://s80718.cdn.ngenix.net/hls/CH_EUROMEDIA24HD/variant.m3u8
 #EXTINF:-1 group-title="News",FreeNews
 https://cors-proxy.cooks.fyi/https://ncdn-y1-w4.teamcloud.am/live/eds/FreeNews/SAF-HLS/FreeNews.m3u8
 
-#EXTINF:-1 group-title="News",1in.am TV
+#
 https://cors-proxy.cooks.fyi/https://ncdn-y1-w6.teamcloud.am/live/eds/1inAM/SAF-HLS/1inAM.m3u8
 
 #EXTINF:-1 group-title="News",Public TV News
@@ -62,6 +62,9 @@ https://s80718.cdn.ngenix.net//hls//CH_SHANT_PREMIUMHD//variant.m3u8
 
 #EXTINF:-1 group-title="Shant",Shant Serial
 https://s80718.cdn.ngenix.net//hls//CH_SHANT_SERIALHD//variant.m3u8
+
+#EXTINF:-1 group-title="Հայկական",5 Aliq
+https://s80718.cdn.ngenix.net//hls//CH_ARARATTV//variant.m3u8
 
 
 # ====== ՄԱՆԿԱԿԱՆ ======
