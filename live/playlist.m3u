@@ -3,9 +3,6 @@
 #EXTINF:-1 group-title="Հայկական",Armenia TV
 https://s80718.cdn.ngenix.net//hls//CH_ARMENIA_TV_HD//variant.m3u8
 
-#EXTINF:-1 group-title="Հայկական",Ararat TV
-https://s80718.cdn.ngenix.net//hls//CH_ARARATTV//variant.m3u8
-
 #EXTINF:-1 group-title="Հայկական",ATV
 https://s70378.cdn.ngenix.net//atv//index.m3u8
 
@@ -28,8 +25,13 @@ https://s70378.cdn.ngenix.net//hay_tv//index.m3u8
 http://livestream.usatv.com/hls/master-iUSATVLIVENET.m3u8
 
 #EXTINF:-1 group-title="Հայկական",Nor Hayastan TV
-https://cdn.hayastantv.com:8088/nor-hayastan/tracks-v1a1/mono.m3u8
+https://cdn.hayastantv.com:8088/nor-hayastan/tracks-v1a1/#EXTINF:-1 group-title="Հայկական",5 Aliq
 
+#EXTINF:-1 group-title="Հայկական",5 Aliq
+https://s80718.cdn.ngenix.net//hls//CH_ARARATHD//variant.m3u8
+
+#EXTINF:-1 group-title="Հայկական", ARTN Shant
+https://streamer1.connectto.com/ARTN_mobile/index.m3u8
 
 # ====== ԼՐԱՏՎԱԿԱՆ ======
 
@@ -40,7 +42,7 @@ https://s80718.cdn.ngenix.net/hls/CH_AZATUTYUN_TVHD/variant.m3u8
 https://s80718.cdn.ngenix.net/hls/CH_EUROMEDIA24HD/variant.m3u8
 
 #EXTINF:-1 group-title="News",FreeNews
-https://cors-proxy.cooks.fyi/https://ncdn-y1-w4.teamcloud.am/live/eds/FreeNews/SAF-HLS/FreeNews.m3u8
+https://s70378.cdn.ngenix.net//freenews//index.m3u8
 
 #
 https://cors-proxy.cooks.fyi/https://ncdn-y1-w6.teamcloud.am/live/eds/1inAM/SAF-HLS/1inAM.m3u8
@@ -62,10 +64,6 @@ https://s80718.cdn.ngenix.net//hls//CH_SHANT_PREMIUMHD//variant.m3u8
 
 #EXTINF:-1 group-title="Shant",Shant Serial
 https://s80718.cdn.ngenix.net//hls//CH_SHANT_SERIALHD//variant.m3u8
-
-#EXTINF:-1 group-title="Հայկական",5 Aliq
-https://s80718.cdn.ngenix.net//hls//CH_ARARATTV//variant.m3u8
-
 
 # ====== ՄԱՆԿԱԿԱՆ ======
 
