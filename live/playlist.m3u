@@ -1,9 +1,10 @@
-#EXTM3U
-
 # ====== ՀԱՅԿԱԿԱՆ ======
 
 #EXTINF:-1 group-title="Հայկական",Armenia TV
 https://s80718.cdn.ngenix.net//hls//CH_ARMENIA_TV_HD//variant.m3u8
+
+#EXTINF:-1 group-title="Հայկական",Ararat TV
+https://s80718.cdn.ngenix.net//hls//CH_ARARATTV//variant.m3u8
 
 #EXTINF:-1 group-title="Հայկական",ATV
 https://s70378.cdn.ngenix.net//atv//index.m3u8
@@ -18,13 +19,34 @@ https://s70378.cdn.ngenix.net/lori_tv//index.m3u8
 https://s70378.cdn.ngenix.net//delta_tv//index.m3u8
 
 #EXTINF:-1 group-title="Հայկական",Tsayg TV
-https://cors-proxy.cooks.fyi/https://ncdn-y1-w6.teamcloud.am/live/eds/CAYG/SAF-HLS/CAYG.m3u8
+https://s80718.cdn.ngenix.net//hls//CH_TSAYG_GYUMRI/variant.m3u8
+
+#EXTINF:-1 group-title="Հայկական",Hay TV
+https://s70378.cdn.ngenix.net//hay_tv//index.m3u8
 
 #EXTINF:-1 group-title="Հայկական",USArmenia
 http://livestream.usatv.com/hls/master-iUSATVLIVENET.m3u8
 
-#EXTINF:-1 group-title="Հայկական",5 Ալիք
-https://cors-proxy.cooks.fyi/https://ncdn-y1-w4.teamcloud.am/live/eds/5Aliq/SAF-HLS/5Aliq.m3u8
+#EXTINF:-1 group-title="Հայկական",Nor Hayastan TV
+https://cdn.hayastantv.com:8088/nor-hayastan/tracks-v1a1/mono.m3u8
+
+
+# ====== ԼՐԱՏՎԱԿԱՆ ======
+
+#EXTINF:-1 group-title="News",Azatutyun TV
+https://s80718.cdn.ngenix.net/hls/CH_AZATUTYUN_TVHD/variant.m3u8
+
+#EXTINF:-1 group-title="News",EuroMedia 24
+https://s80718.cdn.ngenix.net/hls/CH_EUROMEDIA24HD/variant.m3u8
+
+#EXTINF:-1 group-title="News",FreeNews
+https://cors-proxy.cooks.fyi/https://ncdn-y1-w4.teamcloud.am/live/eds/FreeNews/SAF-HLS/FreeNews.m3u8
+
+#EXTINF:-1 group-title="News",1in.am TV
+https://cors-proxy.cooks.fyi/https://ncdn-y1-w6.teamcloud.am/live/eds/1inAM/SAF-HLS/1inAM.m3u8
+
+#EXTINF:-1 group-title="News",Public TV News
+https://amtvusdvr.tulix.tv/am3abr/index.m3u8
 
 
 # ====== SHANT ======
@@ -41,20 +63,11 @@ https://s80718.cdn.ngenix.net//hls//CH_SHANT_PREMIUMHD//variant.m3u8
 #EXTINF:-1 group-title="Shant",Shant Serial
 https://s80718.cdn.ngenix.net//hls//CH_SHANT_SERIALHD//variant.m3u8
 
+
+# ====== ՄԱՆԿԱԿԱՆ ======
+
 #EXTINF:-1 group-title="Kids",Shant Kids
 https://s80718.cdn.ngenix.net//hls//CH_SHANT_KIDSHD//variant.m3u8
-
-
-# ====== ԼՐԱՏՎԱԿԱՆ ======
-
-#EXTINF:-1 group-title="News",FreeNews
-https://cors-proxy.cooks.fyi/https://ncdn-y1-w4.teamcloud.am/live/eds/FreeNews/SAF-HLS/FreeNews.m3u8
-
-#EXTINF:-1 group-title="News",Առաջին Լրատվական
-https://amtvusdvr.tulix.tv/am3abr/index.m3u8
-
-#EXTINF:-1 group-title="News",1inAM
-https://cors-proxy.cooks.fyi/https://ncdn-y1-w6.teamcloud.am/live/eds/1inAM/SAF-HLS/1inAM.m3u8
 
 
 # ====== ՍՊՈՐՏ ======
@@ -86,8 +99,11 @@ https://cors-proxy.cooks.fyi/https://ncdn-y1-w6.teamcloud.am/live/eds/Match_Plan
 #EXTINF:-1 group-title="Movies",Bazmoc
 https://s70378.cdn.ngenix.net//bazmoc//index.m3u8
 
+#EXTINF:-1 group-title="Movies",Kinoman
+https://s70378.cdn.ngenix.net//kinoman//index.m3u8
+
 
 # ====== ԺԱՄԱՆՑ ======
 
-#EXTINF:-1 group-title="Entertainment",H2
+#EXTINF:-1 group-title="Entertainment",H2 TV
 https://s70378.cdn.ngenix.net//h2//index.m3u8
